@@ -1,4 +1,4 @@
-package laurentiuspilca.managing_users_lesson_01.entities;
+package CustomFormLogin.entities;
 
 
 import jakarta.persistence.*;

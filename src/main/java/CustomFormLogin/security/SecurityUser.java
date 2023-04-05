@@ -1,14 +1,15 @@
-package laurentiuspilca.managing_users_lesson_01.security;
+package CustomFormLogin.security;
 
-import laurentiuspilca.managing_users_lesson_01.entities.User;
+import CustomFormLogin.entities.User;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;
-import java.util.List;
 import java.util.stream.Collectors;
 
+
+//MY USER DETAILS
 @AllArgsConstructor
 public class SecurityUser implements UserDetails {
 

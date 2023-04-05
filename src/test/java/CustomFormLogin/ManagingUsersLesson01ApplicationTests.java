@@ -1,4 +1,4 @@
-package laurentiuspilca.managing_users_lesson_01;
+package CustomFormLogin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

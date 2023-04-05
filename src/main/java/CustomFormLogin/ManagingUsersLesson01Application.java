@@ -1,4 +1,4 @@
-package laurentiuspilca.managing_users_lesson_01;
+package CustomFormLogin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
